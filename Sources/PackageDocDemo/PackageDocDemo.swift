@@ -8,4 +8,8 @@ public class DemoClass {
     public func sayHello() {
         print("hello")
     }
+    
+    public func sayHelloAgain() {
+        print("hello again")
+    }
 }
