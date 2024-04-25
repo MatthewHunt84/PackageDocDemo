@@ -10,6 +10,6 @@ public class DemoClass {
     }
     
     public func sayHelloAgain() {
-        print("hello again")
+        print("hello again!")
     }
 }
